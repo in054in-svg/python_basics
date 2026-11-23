@@ -109,29 +109,29 @@
 # print(a, b, sep=' ')
 
 
-# final mission
-first_name = input('Enter your first name:')
-last_name = input('Enter your last name:')
-age = int(input('Enter your age:'))
-college = input('Enter college name:')
-course_name = input('Enter course name:')
-duration = int(input('Enter number of study months:'))
-monthly_price = float(input('Enter monthly price:'))
+# # final mission
+# first_name = input('Enter your first name:')
+# last_name = input('Enter your last name:')
+# age = int(input('Enter your age:'))
+# college = input('Enter college name:')
+# course_name = input('Enter course name:')
+# duration = int(input('Enter number of study months:'))
+# monthly_price = float(input('Enter monthly price:'))
 
-print(f'''================================
-       STUDENT REGISTRATION
-================================
+# print(f'''================================
+#        STUDENT REGISTRATION
+# ================================
 
-Student: {first_name} {last_name}
-Age: {age}
-Institution: {college}
-Course: {course_name}
-Duration: {duration}
-Monthly Price: {monthly_price}
+# Student: {first_name} {last_name}
+# Age: {age}
+# Institution: {college}
+# Course: {course_name}
+# Duration: {duration}
+# Monthly Price: {monthly_price}
 
-Total Course Price: {duration * monthly_price}
+# Total Course Price: {duration * monthly_price}
 
-================================
-Registration completed!
-================================
-''')
+# ================================
+# Registration completed!
+# ================================
+# ''')
